@@ -1,0 +1,1 @@
+# wazuh-Soc-Home-Lab
