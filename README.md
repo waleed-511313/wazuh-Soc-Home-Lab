@@ -28,10 +28,3 @@ This project demonstrates the setup of a Security Operations Center (SOC) home l
 
 ## 📊 Results & Analysis
 The Wazuh dashboard successfully visualized security alerts, correlating them with the MITRE ATT&CK framework. The total events reached **1,717**, with **19** authentication failures detected, proving the lab's effectiveness in capturing both network and host-based attacks.
-
-## 📷 Visual Evidence
-### Nmap Scan
-![Nmap Scan](اسم_الصورة_العربية_اللي_تبيها.png)
-
-### Wazuh Security Events
-![Wazuh Events](اسم_الصورة_الثانية_العربية_اللي_تبيها.png)
